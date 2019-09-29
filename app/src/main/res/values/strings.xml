@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SpeedRead</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+
+    <string name="sinhalapara">තායිලන්තයේ දක්ෂිණ ප්‍රදේශයේ පිහිටි විහාරයක් තුළදී බෞද්ධ භික්ෂූන් වහන්සේ දෙනමක වෙඩි තබා ඝාතනය කර ඇති අතර තවත් දෙනමක තුවාල ලබා තිබේ.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
